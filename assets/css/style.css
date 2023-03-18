@@ -1,0 +1,33 @@
+.principal {
+  margin: 10%;
+  padding: 0%;
+  border: 0%;
+}
+
+.texto {
+  text-align: center;
+}
+
+.titulo {
+  margin-top: 4em;
+}
+
+.imagengato,
+.textogato {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.textogato {
+  margin-left: 5em;
+}
+
+header {
+  padding: 2%;
+  border: 0%;
+  text-align: right;
+}
+
+.cajadeimg {
+  margin: 10%;
+}
