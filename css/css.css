@@ -21,11 +21,13 @@ body{
 
 
 .contenedor-2{
-    width: 50%;
-    border-style: double;
     float: left;
+    width: 80%;
+    
+    
 }
 
-.contenedor-2 a{
-    padding-top: 10%;
+.linkIndex{
+    padding-left: 20%;
+        
 }
