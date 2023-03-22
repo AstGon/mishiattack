@@ -31,3 +31,27 @@ header {
 .cajadeimg {
   margin: 10%;
 }
+
+.Contenedor-Index{
+  width: 72%;
+  height: 25%;  
+  padding-top: 1%;
+  padding-left: 8%;
+  padding-right: 8%;
+  padding-bottom: 1%;
+  text-align: justify;
+  display: block;
+  border-style: double;
+}
+.cont-1{
+  background-color: aqua;
+}
+.cont-2{
+  background-color: yellow;
+}
+.cont-3{
+  background-color: orange;
+}
+.cont-4{
+  background-color: red;
+}
