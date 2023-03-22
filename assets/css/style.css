@@ -54,10 +54,12 @@ header {
 }
 .cont-4{
   background-color: red;
-=======
+}
+
 *{
   box-sizing: border-box;
 }
+
 body{
   margin: 0%;
   margin-bottom: 10%;
@@ -66,11 +68,14 @@ body{
 }
 
 .menu{
-
 font-family: sans-serif;
 font-weight: bold;
+}
+
+.contenedormenu{
 
 }
+
 
 li{
   list-style-type: none;
@@ -84,3 +89,4 @@ a{
 
 a:hover{
 color: gray;
+}
