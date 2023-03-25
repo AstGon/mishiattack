@@ -1,3 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: sans-serif;
+  margin: 0%;
+  margin-bottom: 10%;
+  padding-bottom: 5%;
+  background-color: black;
+}
+
 .principal {
   margin: 10%;
   padding: 0%;
@@ -32,38 +44,53 @@ header {
   margin: 10%;
 }
 
-*{
-  box-sizing: border-box;
-}
-body{
-  margin: 0%;
-  margin-bottom: 10%;
-  padding-bottom: 5%;
-}
-.contenedor-1{
-  text-align: center;
-}
-.contenedor-1 p{
-  text-align: justify;
-  margin-left: 10%;
-  margin-right: 10%;
-}
-
-.contenedor-1 ul li{
-  text-align: justify;
-  margin-left: 20%;
-  margin-right: 10%;
-}
-
-
-.contenedor-2{
-  float: left;
+.contenedor-prueba{
+  float: left;  
   width: 80%;
-  
+  height: 100%;
+}
+
+.menu{
+  float: left;
+  font-weight: bold;
+  width: 20%;
+  height: 100%;
+  }
+
+.Contenedor-Index{
+  float: left;
+  width: 100%;
+  height: 25%;    
+  padding-left: 4%;
+  padding-right: 4%;  
+  text-align: justify;
+  font-size: 83.6%;
   
 }
 
-.linkIndex{
-  padding-left: 20%;
-      
+.cont-1{
+  background-color: aqua;
+}
+.cont-2{
+  background-color: yellow;
+}
+.cont-3{
+  background-color: orange;
+}
+.cont-4{
+  background-color: red;
+}
+
+li{
+  list-style-type: none;
+
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+color: gray;
 }
